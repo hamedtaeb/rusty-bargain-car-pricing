@@ -1,4 +1,5 @@
-# Project Summary: Used Car Price Prediction (Rusty Bargain)
+# Project Summary: Used Car Price Prediction (Rusty Bargain):
+https://github.com/hamedtaeb/rusty-bargain-car-pricing
 
 In this project, we built and evaluated several machine learning models to predict used car prices using a large dataset of listings from **Rusty Bargain**, containing over 350,000 records. The dataset included a mix of numerical and categorical features.
 
